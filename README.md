@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Brendon 👋
 
-<!--
-**brendon2620/brendon2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack Júnior formado pela DevClub, focado no ecossistema JavaScript/TypeScript.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React · React Native · Node.js (Express / Fastify) · TypeScript · PostgreSQL · MongoDB · Prisma · Tailwind CSS
+
+## 🚀 Projetos em destaque
+
+**DevBills** — controle de finanças pessoais, 100% TypeScript (Fastify + Prisma + Firebase)
+https://github.com/brendon2620/DevBills
+
+**DevBurguer** — e-commerce full stack com pagamentos via Stripe
+https://github.com/brendon2620/DevBurguer-api
+https://github.com/brendon2620/DEV-BURGUER-INTERFACE
+
+**Clima** — app mobile de previsão do tempo em React Native + Expo
+https://github.com/brendon2620/previsao-do-tempo-mobile
+
+## 📫 Contato
+
+LinkedIn: https://linkedin.com/in/brendonhenrique1
+Email: brendon2620@gmail.com
+São José dos Campos, SP
